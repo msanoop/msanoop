@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msanoop
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
